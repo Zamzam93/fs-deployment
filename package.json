@@ -19,6 +19,8 @@
   },
   "homepage": "https://github.com/Zamzam93/fs-deployment#readme",
   "dependencies": {
-    "express": "^4.18.1"
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "rollbar": "^2.25.1"
   }
 }
